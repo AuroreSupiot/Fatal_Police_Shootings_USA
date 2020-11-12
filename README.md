@@ -32,3 +32,4 @@ The aim is to predict the number of fatal shootings by police by city between 20
 
 ## Presentation
 
+https://github.com/AuroreSupiot/Fatal_Police_Shootings_USA/blob/main/Project_FatalPoliceShooting_presentation.pdf 
